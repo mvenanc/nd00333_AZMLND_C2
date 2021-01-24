@@ -72,11 +72,7 @@ Also, a more detaild Automated ML can be run testing much more scenarios and als
 ![](images/step_7_6_scheduled_run_20210123.jpg?raw=true)
 
 
-## Screencast vídeo
+## Screencast vídeo (Clink over the image - The video is hosted on youtube)
 
 [![Watch the video](https://img.youtube.com/vi/Y6nTz96Xqso/maxresdefault.jpg)](https://youtu.be/Y6nTz96Xqso)
 
-
-## Screencast vídeo
-
-[<img src="https://img.youtube.com/vi/Y6nTz96Xqso/maxresdefault.jpg" width="50%">](https://youtu.be/Y6nTz96Xqso)
