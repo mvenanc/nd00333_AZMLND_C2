@@ -20,14 +20,6 @@ The Train Model step presented in the architecture flow above, basically can be 
 
 ![](images/training_model.png?raw=true)
 
-## Project future improvements
-
-As future improvements, There is a chance to improve the model quality by investing time to investigate all the features and run some descriptive statistics analysis in order to find out how important are all the features. Try to select the best ones, as well create another feature. 
-
-Also, a more detailed Automated ML can be run testing many more scenarios and also Deep Learning algorithms in attempt to find the best model.
-
-New models can be compared. Different parameters can be tested using the hyperdrive and than, finding the best model and best parameters that generated the best possible model.
-
 ## Screenshots
 
 ### Step 2.1 - Registered Datasets
@@ -148,4 +140,14 @@ This screen shows some important information, such as, Run status, graphs of met
 ## Screencast vídeo (Clik on the image - The video is hosted on youtube)
 
 [![Watch the video](https://img.youtube.com/vi/iPkfpMEGURs/maxresdefault.jpg)](https://youtu.be/iPkfpMEGURs)
+
+
+
+## Project future improvements
+
+As future improvements, There is a chance to improve the model quality by investing time to investigate all the features and run some descriptive statistics analysis in order to find out how important are all the features. Try to select the best ones, as well create another feature. 
+
+Also, a more detailed Automated ML can be run testing many more scenarios and also Deep Learning algorithms in attempt to find the best model.
+
+New models can be compared. Different parameters can be tested using the hyperdrive and than, finding the best model and best parameters that generated the best possible model.
 
