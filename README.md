@@ -147,5 +147,5 @@ This screen shows some important information, such as, Run status, graphs of met
 
 ## Screencast vídeo (Clik on the image - The video is hosted on youtube)
 
-[![Watch the video](https://img.youtube.com/vi/Y6nTz96Xqso/maxresdefault.jpg)](https://youtu.be/Y6nTz96Xqso)
+[![Watch the video](https://img.youtube.com/vi/iPkfpMEGURs/maxresdefault.jpg)](https://youtu.be/iPkfpMEGURs)
 
